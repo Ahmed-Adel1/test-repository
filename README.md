@@ -1,5 +1,3 @@
-# test-repository
+# my very first repo
 
-this is a second example
-
-this is a new edit  from my local computer.
+ahmed is an awesome student
